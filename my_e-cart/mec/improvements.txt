@@ -1,0 +1,3 @@
+when we are paying with the help of paytm then if we go back or refreh the page we see the order failure but in reality the order gets placed.
+We get a order id for that and the order can be traced using that order id
+This can be corrected by filling the order details as it is done noe and adding a field saying incomplete as a default value and which changes to complete once the transaction is complete.
